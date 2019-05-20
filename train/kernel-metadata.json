@@ -1,0 +1,13 @@
+{
+  "id": "sipvip/rnnwalkthrough",
+  "title": "rnnwalkthrough",
+  "code_file": "kagglerun.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_internet": "true",
+  "dataset_sources": ["sipvip/rnnwalkthroughdata"],
+  "competition_sources": [],
+  "kernel_sources": []
+}
